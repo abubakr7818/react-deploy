@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
    <>
-   <h1>yoshlar baxtli bolsin</h1>
+   <h1>Doni osiro abdulloh chumo Firdavs terpila</h1>
    </>
   )
 }
